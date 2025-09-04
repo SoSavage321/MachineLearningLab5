@@ -24,9 +24,12 @@ By the end of this lab, you should be able to:
 Ensure you have the following Python packages installed:
 
 ```bash
-pip install numpy scipy matplotlib scikit-learn
+pip install numpy scipy matplotlib scikit-learn```
+
 
 ## Analysis Questions and Answers
+
+
 1. How does explained variance change with components in PCA?
  The first principal components explain the most of the variance in the dataset.  For example, in the Wine dataset, the first 2-3 components account for the majority of the variance, with subsequent components contributing minimally.
 
