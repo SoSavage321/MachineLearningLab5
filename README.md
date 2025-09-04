@@ -19,14 +19,6 @@ By the end of this lab, you should be able to:
 - Use KPCA to handle nonlinear data.
 - Visualize results and analyze the impact of dimensionality reduction on classification tasks.
 
-## Requirements
-
-Ensure you have the following Python packages installed:
-
-```bash
-pip install numpy scipy matplotlib scikit-learn```
-
-
 ## Analysis Questions and Answers
 
 
@@ -57,3 +49,13 @@ pip install numpy scipy matplotlib scikit-learn```
  LDA plots show clearer class separation.
 
  KPCA plots effectively differentiate non-linear patterns, as proven with half-moon and circle datasets.
+
+
+## Requirements
+
+Ensure you have the following Python packages installed:
+
+```bash
+pip install numpy scipy matplotlib scikit-learn```
+
+
